@@ -1,0 +1,27 @@
+{
+  "author": "Eric Kouassi <hello@erickouassi.com> (https://erickouassi.com/)",
+  "name": "File Metadata Microservice",
+  "version": "0.0.1",
+  "description": "Apis and Microservices Projects - File Metadata Microservice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0-alpha.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "4.4.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erickouassi/File-Metadata-Microservice"
+  },
+  "keywords": [
+    "node",
+    "hyperdev",
+    "express"
+  ],
+  "license": "MIT"
+}
